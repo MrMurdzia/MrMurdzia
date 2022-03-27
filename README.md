@@ -7,5 +7,5 @@ I'm @MrMurdzia and welcome to my GitHub Profile
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning C# and Unity
+- 🌱 I’m currently learning Java and Android
 - 😄 Pronouns: he/him/his
